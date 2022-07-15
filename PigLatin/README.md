@@ -1,3 +1,3 @@
 # Pig Latin
 
-Project to convert English to Piglatin.
+Program to convert English to Piglatin.
